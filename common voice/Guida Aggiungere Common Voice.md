@@ -7,6 +7,8 @@ https://github.com/Sav22999/Articoli-Post-mozilla-italia/blob/voice-web/common%2
 ---------------------------
 
 In questa guida vedremo come è possibile, facilmente, aggiungere nuove frasi su Common Voice o revisionare quelle già presenti. 
+Piccola nota: le revisioni, prima di essere pubblicate, vengono ulteriormente revisionate dai moderatori (generalmente da @Mte90 o da @Sav22999).
+
 ### Aggiungere frasi
 
 ## Aggiungere frasi (Metodo 1) 
