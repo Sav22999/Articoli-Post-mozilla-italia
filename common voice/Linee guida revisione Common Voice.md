@@ -9,7 +9,7 @@ Si noti anche che, prima della pubblicazione effettiva, le frasi vengono ugualme
  4. INIZIALE DI OGNI FRASE MAIUSCOLA
  5. SE IN UNA FRASE SONO PRESENTI PIU' PUNTI “.”, SUDDIVIDERLA IN PIU’ FRASI
  6. RIMUOVERE PAROLE ED ESPRESSIONI OFFENSIVE O DIALETTALI
- 7. SE SONO PRESENTI MOLTI VALORI NUMERICI EVITARE DI ARRIVARE A 125 CARATTERI￼￼￼￼￼ -> TENERE A MENTE CHE LE DATE DEVONO ESSERE LETTE, ESEMPIO “1999” SI LEGGE “MILLENOVECENTONOVANTANOVE” E COSI' VIA 
+ 7. SE SONO PRESENTI MOLTI VALORI NUMERICI EVITARE DI ARRIVARE A 125 CARATTERI -> TENERE A MENTE CHE LE DATE DEVONO ESSERE LETTE, ESEMPIO “1999” SI LEGGE “MILLENOVECENTONOVANTANOVE” E COSI' VIA 
  8. NON CI DEVONO ESSERE FRASI DUPLICATE
  9. EVITARE DI INIZIARE CON "CHE" O "E"
  10. RIMUOVERE LE PARENTESI, TRATTANDOLE COME FRASI SEPARATE O, IN ALTERNATIVA, SOSTITUIRLE CON ","
@@ -29,14 +29,14 @@ Si noti anche che, prima della pubblicazione effettiva, le frasi vengono ugualme
 Si ottengono, pertanto, le seguenti frasi:
  
 > Il ramo principale dei sistemi operativi non è mai stato abbandonato.
-> È quello nel quale la società investe di più, soprattutto in ricerca e sviluppo.
-> Le continue migliorie ai sistemi già in commercio.
-> Le ultime novità sono state il rilascio di un programma antispyware e di un antivirus.
-> Si integrano in Windows e il nuovo sistema di aggiornamento dei software.
-> Oltre ad essere più efficiente.
-> Permette di aggiornare solo i sistemi le cui licenze siano state regolarmente acquistate.
-> Oltre ai rilasci di patch per la sicurezza.
-> Sono affiancate dal continuo sviluppo di nuovi prodotti.
+><br/> È quello nel quale la società investe di più, soprattutto in ricerca e sviluppo.
+><br/> Le continue migliorie ai sistemi già in commercio.
+><br/> Le ultime novità sono state il rilascio di un programma antispyware e di un antivirus.
+><br/> Si integrano in Windows e il nuovo sistema di aggiornamento dei software.
+><br/> Oltre ad essere più efficiente.
+><br/> Permette di aggiornare solo i sistemi le cui licenze siano state regolarmente acquistate.
+><br/> Oltre ai rilasci di patch per la sicurezza.
+><br/> Sono affiancate dal continuo sviluppo di nuovi prodotti.
 
 Si può ben notare che:
  - le iniziale di ciascuna frase è maiuscola
