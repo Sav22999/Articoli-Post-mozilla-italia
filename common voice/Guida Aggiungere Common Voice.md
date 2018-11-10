@@ -4,6 +4,8 @@
 ### Linee guida per la revisione ed esempio pratico
 https://github.com/Sav22999/Articoli-Post-mozilla-italia/blob/voice-web/common%20voice/Linee%20guida%20revisione%20Common%20Voice.md
 
+---------------------------
+
 In questa guida vedremo come è possibile, facilmente, aggiungere nuove frasi su Common Voice o revisionare quelle già presenti. 
 ### Aggiungere frasi
 
