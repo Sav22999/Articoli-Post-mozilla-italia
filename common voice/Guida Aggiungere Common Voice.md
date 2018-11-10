@@ -1,18 +1,8 @@
 # AGGIUNGERE NUOVE FRASI, REVISIONARE QUELLE GIA' PRESENTI SU COMMON VOICE O SEGNALARE ERRORI
  
 
-### Regole di stile
- 1. LUNGHEZZA MASSIMA FRASI: 125 CARATTERI 
- 2. LUNGHEZZA MINIMA FRASI: 1 CARATTERI 
- 3. LE FRASI DEVONO AVERE SENSO COMPIUTO 
- 4. INIZIALE DI OGNI FRASE MAIUSCOLA 
- 5. EVITARE DI INSERIRE “.” IN UNA SINGOLA FRASE, PIUTTOSTO SUDDIVIDERLA IN PIU’ FRASI 
- 6. RIMUOVERE PAROLE OFFENSIVE 
- 7. SE SONO PRESENTI MOLTE DATE, NUMERI O GIORNI EVITARE DI ARRIVARE A 125 CARATTERI￼￼￼￼￼ -> TENERE A MENTE CHE LE DATE DEVONO ESSERE LETTE, ESEMPIO “1999” SI LEGGE “MILLENOVECENTONOVANTANOVE” e così via 
- 8. NON INSERIRE FRASI DUPLICATE 
- 9. LE FRASI NON DEVONO INIZIARE CON UNA CONGIUNZIONE 
-
- 
+### Linee guida per la revisione ed esempio pratico
+https://github.com/Sav22999/Articoli-Post-mozilla-italia/blob/voice-web/common%20voice/Linee%20guida%20revisione%20Common%20Voice.md
 
 In questa guida vedremo come è possibile, facilmente, aggiungere nuove frasi su Common Voice o revisionare quelle già presenti. 
 ### Aggiungere frasi
@@ -21,7 +11,7 @@ In questa guida vedremo come è possibile, facilmente, aggiungere nuove frasi su
 
 Recarsi sul repository di MozillaItalia su GitHub: “voice-web” (https://github.com/MozillaItalia/voice-web). 
 
-Dopodiché è necessario creare un fork proprio di questo progetto e, successivamente, lavorare su quel fork. 
+Dopodiché è necessario creare un fork proprio di questo progetto e, successivamente, lavorare su quel fork (si noti che è necessario utilizzare il branch "ita-review" e non "master"). 
 
 Recarsi sul proprio fork UserName/voice-web, spostarsi nel ramo (branch) ita-review ed aggiungere le frasi che si desiderano nel file txt presente in “voice-web\server\data\it\frasi.txt” alla fine del documento, ricordando le “regole di stile” (sopra riportate) e, importante, ricordare che la licenza dei contenuti deve essere LIBERA, quindi CC0, +70life, e così via (se la licenza non è riportata NON inserire quelle determinate frasi). 
 
